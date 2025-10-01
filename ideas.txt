@@ -1,0 +1,4 @@
+- To eventually segregate these architectures in seperate folders.
+OR
+- To include these into a markdown, and build a book.
+- To sort them in increasing order of complexity.
